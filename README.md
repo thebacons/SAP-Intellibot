@@ -55,3 +55,64 @@ app.post('/ask', async (req, res) => {
 });
 
 app.listen(3000, () => console.log('Server listening on port 3000'));
+
+# WebPage
+# Project Title
+
+## Table of Contents
+1. [Introduction](#introduction)
+2. [HTML Structure](#html-structure)
+3. [Server Connection](#server-connection)
+4. [Functionality](#functionality)
+5. [Conclusion](#conclusion)
+
+## Introduction
+This project is a web application that connects to a Node.js server. The main purpose of this application is to...
+
+## HTML Structure
+The HTML structure of the web application is as follows:
+
+- `<html>`: This is the root element of an HTML page.
+- `<head>`: This contains meta-information about the HTML document.
+- `<body>`: This contains the content of the HTML document.
+
+## Server Connection
+The web application connects to a Node.js server. The connection is established using...
+
+## Functionality
+The main functionalities of the web application are...
+
+## Conclusion
+This document provides a brief overview of the web application's structure and functionality. For more detailed information, please refer to the source code.
+
+## Overview
+This project is a web application that connects to a Node.js server. 
+
+## File Structure
+index.html
+server.js
+
+
+## index.html
+This is the main HTML file for the web application. It includes the following key elements:
+
+- **Element 1**: Description of the element and its role in the application.
+- **Element 2**: Description of the element and its role in the application.
+
+## server.js
+This is the main server file for the application. It is a Node.js server and includes the following key components:
+
+- *Component 1: Description of the component and its role in the application.
+- **Component 2**: Description of the component and its role in the application.
+
+## How to Run the Application
+1. Start the Node.js server by running the following command in the terminal:
+
+node server.js
+
+2. Open the `index.html` file in a web browser.
+
+## Dependencies
+- Node.js
+- Any other libraries or dependencies used in the project
+
